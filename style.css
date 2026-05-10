@@ -48,7 +48,7 @@ body {
 .socials a {
   display: flex;
   opacity: 0.45;
-  filter: blur(1.1px);
+  filter: blur(0.6px);
   transition: opacity 0.2s ease, filter 0.2s ease;
 }
 
